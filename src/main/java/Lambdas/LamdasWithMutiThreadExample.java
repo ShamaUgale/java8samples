@@ -1,4 +1,4 @@
-/*
+package Lambdas;/*
 
 java.util.function is a package having predefined FI
 

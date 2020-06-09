@@ -1,3 +1,4 @@
+package Lambdas;
 
 /*
 Eg 1 : Interface A
@@ -72,7 +73,8 @@ class Demo implements A {
         System.out.println("Helllo - without using Lambdas");
     }
 }
-public class Lambda_Expr {
+
+public class LambdaExpr {
 
 
     public static void main(String[] args) {
